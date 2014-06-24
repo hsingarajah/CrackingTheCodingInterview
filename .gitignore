@@ -1,0 +1,7 @@
+$ cat .gitignore
+
+#swap files
+.*.swp
+*.o
+*.pyc
+*~
